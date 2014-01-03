@@ -10,3 +10,5 @@ The easiest way to install is copying the folders into the Joomla folders.
 - Copy the plugin folder into plugins/captcha
 - Copy the component folder into components/
 
+Once you have copied the folder you only hace to go to Extension Manager and discover for new extensions. Install both extensions. Remember you have to activate the plugin from Plugins Manager and select MyCaptcha as default from Global Configuration.
+
